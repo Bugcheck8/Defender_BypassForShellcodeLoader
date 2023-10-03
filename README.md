@@ -1,0 +1,5 @@
+# Defender_BypassForShellcodeLoader
+ShellcodeLoader
+1、将Encode生成的加密后的文件在十六进制编辑器中打开，复制为C代码，粘贴到代码的Shellcode数组中。重新生成
+
+暂时先这样，后期会慢慢改成自动化。
